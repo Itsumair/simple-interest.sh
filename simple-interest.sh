@@ -3,7 +3,7 @@
 echo "Enter Principal amount:"
 read p
 
-echo "Enter Rate of interest:"
+echo "Enter Rate of intrest:"
 read r
 
 echo "Enter Time (in years):"
