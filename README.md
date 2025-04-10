@@ -12,3 +12,6 @@ This repository contains a simple shell script to calculate simple interest usin
 ## ✅ Usage
 ```bash
 bash simple-interest.sh
+
+This is a shell script to calculate simple interest.
+
